@@ -1,0 +1,20 @@
+module.exports = {
+  Red: "Red",
+  Pink: "Pink",
+  Purple: "Purple",
+  DeepPurple: "DeepPurple",
+  Indigo: "Indigo",
+  Blue: "Blue",
+  LightBlue: "LightBlue",
+  Cyan: "Cyan",
+  Teal: "Teal",
+  Green: "Green",
+  LightGreen: "LightGreen",
+  Lime: "Lime",
+  Yellow: "Yellow",
+  Amber: "Amber",
+  Orange: "Orange",
+  DeepOrange: "DeepOrange",
+  Brown: "Brown",
+  Grey: "Grey"
+}
